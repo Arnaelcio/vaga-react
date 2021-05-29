@@ -32,7 +32,7 @@ O desafio consiste na implementação de um e-Commerce Web ou Mobile utilizando 
 
 ## O Que Foi Feito
 Aplicação estilo e-Commerce utilizado Redux para gerenciamento de estado,
-FireStrore e Storage do FireBase para banco de dados do usuários e produtos cadastrados, React Router para gerenciamento de rotas, Hooks do React e Redux.
+FireStore e Storage do FireBase para banco de dados do usuários e produtos cadastrados, React Router para gerenciamento de rotas, Hooks do React e Redux.
 
 ## Como ver o projeto On line
 O peojto está hospedado na plataforma [Netlify](https://www.netlify.com/) e voê pode [vê-lo Aqui](https://rock-app-challenge.netlify.app/)
